@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/z004608/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.10/jackson-core-2.8.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/z004608/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/workspace/lou_26032019/jar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z004608/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/z004608/.m2/repository/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
